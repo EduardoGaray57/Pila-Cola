@@ -3,6 +3,12 @@
 Este repositorio contiene la implementación de las estructuras de datos **Pila (LIFO)** y **Cola (FIFO)** en **Java**, **JavaScript** y **Python**.  
 El proyecto tiene un enfoque comparativo, educativo y práctico, incorporando pruebas automatizadas y una interfaz básica para visualizar el funcionamiento.
 
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](https://python.org/)
+[![Jest](https://img.shields.io/badge/Tests-Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+[![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white)](https://pytest.org/)
+
 ---
 
 ## 📂 Estructura del proyecto
@@ -78,8 +84,13 @@ pytest
 - Pruebas funcionales
 - Documentación básica incluida
 
+  
+
 ---
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado con fines académicos y de práctica personal.
+**Eduardo Garay**
+- 📍 Quilicura, Santiago, Chile
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-garay-9b067b16b)
+- 🐙 [GitHub](https://github.com/EduardoGaray57)
